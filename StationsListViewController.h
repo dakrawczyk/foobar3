@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  StationsListViewController.h
 //  CodeChallenge3
 //
 //  Created by Vik Denic on 10/16/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface StationsListViewController : UIViewController
 
 @end
-
